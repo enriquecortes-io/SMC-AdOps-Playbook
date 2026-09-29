@@ -17,6 +17,10 @@ Both are Meta-authored sources. Architecture descriptions are high-confidence
 evidence of what Meta publicly states. Performance lifts are vendor-supplied and
 not independently verified by Claude Ads.
 
+SMC operating rules derived from Andromeda (Entity ID, consolidation,
+learning phase, creative refresh, Solena/TEM decisions): see
+`05a_andromeda_meta_operativo.md` at the repo root.
+
 ## What is supported
 
 Meta describes ad selection as a multi-stage recommendation system. Its
