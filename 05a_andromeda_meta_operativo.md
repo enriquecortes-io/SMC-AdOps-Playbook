@@ -95,7 +95,7 @@ Definir desde el principio qué intenta **probar** cada concepto.
 
 El mismo guion grabado en otro sitio, o el mismo Reel con otro texto encima, probablemente cae en el mismo Entity ID.
 
-**Diseño sin sonido:** cada Reel debe entenderse con el audio apagado (texto en pantalla o subtítulos en los tramos clave). Coordinar con la regla de `instagram seo manual.md` §4: nunca overlay manual y subtítulo automático en el mismo tramo.
+**Diseño sin sonido:** cada Reel debe entenderse con el audio apagado (texto en pantalla o subtítulos en los tramos clave). Nunca overlay manual y subtítulo automático en el mismo tramo.
 
 **Diversidad de formato (dentro de cada concepto):** vídeo + imagen estática + carrusel. Comparten Entity ID, pero permiten a Meta probar entrega en ubicaciones y contextos distintos. Advantage+ reparte entre superficies solo si le das formatos con los que trabajar. Exportar nativo en 9:16, 4:5 y 1:1.
 
@@ -131,7 +131,7 @@ Andrómeda entrena con resultados de conversión. Datos incompletos = modelo ses
 - Una hipótesis clara por test. Una variable.
 - Mínimo **~1.000 impresiones por concepto** antes de concluir.
 - Mínimo **5-7 días** de ejecución antes de declarar ganador. Andrómeda da señal antes, pero la varianza temprana no es insight.
-- Registrar cada resultado en un log compartido (usar `LOG DE CICLO` de `04c`).
+- Registrar cada resultado en un log compartido.
 
 -----
 
@@ -188,7 +188,7 @@ Andrómeda entrena con resultados de conversión. Datos incompletos = modelo ses
 |Categoría especial Vivienda                               |A favor: ya obliga a segmentación amplia (lo que Andrómeda pide).                   |
 |Formulario instantáneo (lead ads), no web                 |Los eventos de píxel e-commerce no aplican. El equivalente es devolver la calidad del lead a Meta vía CAPI desde el CRM (conecta con el proyecto de server-side tracking). |
 
-**Tensión de fondo con el framework de ciclos angulares:** el ciclo impone un **orden** de ángulos (Autoridad → Coste → Confianza) mediante retargeting. Andrómeda rinde mejor con **varios conceptos juntos** en una estructura consolidada, pero no garantiza orden. La regla "un impacto = un ángulo" (03a, 04b) sí encaja perfectamente con la lógica de Entity ID. Decisión pendiente: secuencia forzada con poco presupuesto vs. consolidación con más señal.
+**Tensión de fondo con el framework de ciclos angulares:** el ciclo impone un **orden** de ángulos (Autoridad → Coste → Confianza) mediante retargeting. Andrómeda rinde mejor con **varios conceptos juntos** en una estructura consolidada, pero no garantiza orden. La regla "un impacto = un ángulo" sí encaja perfectamente con la lógica de Entity ID. Decisión pendiente: secuencia forzada con poco presupuesto vs. consolidación con más señal.
 
 -----
 
@@ -215,7 +215,7 @@ Andrómeda entrena con resultados de conversión. Datos incompletos = modelo ses
 |Segmentación amplia: +49% ROAS vs. lookalikes (dato Lebesgue)            |La categoría Vivienda ya obliga a amplia.                           |
 |Los mejores anunciantes tienen más anuncios activos, pero volumen sin diversidad no sirve (clustering)|Más conceptos, no más variantes.                                   |
 
-**KPIs nuevos a añadir al seguimiento (`04c`):**
+**KPIs nuevos a añadir al seguimiento:**
 - Número de anuncios activos (conceptos distintos en circulación)
 - Ritmo de refresco (conceptos nuevos lanzados por mes)
 - Tasa de conversión post-clic (formulario / web)
