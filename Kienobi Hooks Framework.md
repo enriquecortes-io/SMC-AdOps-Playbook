@@ -1,13 +1,13 @@
 # Kienobi Hooks Framework — adaptado a TEM
 
 **Fuente:** Reel educativo de Kienobi, "25 MILLION-VIEW HOOKS" (Facebook, 27/09/2026, ~869 likes) — https://www.facebook.com/reel/2390389141766152/
-**Uso:** banco de ganchos 0–3 s para Reels/TikTok/YouTube Shorts de The Edit Marbella. Complementa `content bank.md` y `TEM Instagram AlgoSystem.md`.
+**Uso:** banco de ganchos 0–3 s para Reels/TikTok/YouTube Shorts de The Edit Marbella. Complementa *content bank* y *TEM Instagram AlgoSystem* (proyecto Claude «The edit rrss», fuera de este repo).
 
 ## ⚠️ Regla de uso (no negociable)
 Los **ejemplos** son guiones ilustrativos. Todas las cifras ("+40% conversión", "+47% revalorización", "4 reservas en 48h", "9,2M", etc.), nombres ("Carlos", "Villa Arcadio") y anécdotas son **placeholders no verificados**. Antes de publicar:
-- Sustituir por datos reales y verificables (ver `market data sources.md`) o eliminar la cifra.
+- Sustituir por datos reales y verificables (ver *market data sources* en el proyecto Claude «The edit rrss») o eliminar la cifra.
 - Hooks de PRUEBA y EXPERIENCIA solo con hechos que hayan ocurrido de verdad.
-- Pasar el Test de los 3 Filtros y el vocabulario prohibido de `brand bible.md` (sección 5).
+- Pasar el Test de los 3 Filtros y el vocabulario prohibido de la *brand bible* (sección 5, proyecto Claude «The edit rrss»).
 - Aplicar el CAPTION FRAMEWORK TEM (hook ≤125 car., ubicación+tipología arriba, CTA a DM-share, precio al final, 3–5 hashtags de nicho).
 - Nunca usar en Solena (registro distinto).
 
