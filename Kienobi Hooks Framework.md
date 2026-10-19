@@ -158,3 +158,21 @@ Formato: Reel 15–30 s · iPhone + luz natural.
 3. Curiosidad: retén información, haz que quieran preguntar. Prueba: frase que ya vendió, sin música, solo verdad.
 
 > Si tienes que explicar que es lujo, no es lujo. Muestra el silencio después de la compra.
+
+## Estructura narrativa · Gancho → Lucha → Giro → Lección
+**Fuente:** Reel de Kienobi, "How to Master Storytelling" (Facebook, 22/07/2026) — https://www.facebook.com/reel/2270111733840805/
+**Tesis:** la estructura, no la historia, es lo que convierte. Sin lección no hay conversión.
+
+1. **Gancho** — uno de los 25 hooks de arriba (0–3 s).
+2. **Lucha** — el problema o la fricción real (del comprador o tuya).
+3. **Giro** — el momento de darse cuenta. **Obligatorio:** sin giro, un hook de EXPERIENCIA es anécdota, no criterio.
+4. **Lección** — qué se lleva el espectador y **cómo aplicarlo hoy**, aunque no compre. En orgánico de autoridad va *antes* del CTA a DM, no en su lugar.
+
+Fórmula: *Problema → Qué pasó → Qué aprendí → Cómo aplicarlo hoy.*
+
+**Test del "porque":** plano = "Dejé de vender por m²". Enmarcado = "Dejé de vender por m² porque entendí que nadie paga 10M por metros". Si el copy no admite un "porque", le falta giro.
+
+### Reglas de edición (QA antes de publicar)
+- Corta todo detalle que no genere emoción.
+- Quédate solo con los momentos emocionales.
+- **Una sola frase memorable por pieza** — identifícala antes de grabar; si no la tienes, no grabes.
